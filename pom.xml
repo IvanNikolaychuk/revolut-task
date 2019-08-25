@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.revolut.nikolaychukivan</groupId>
-    <artifactId>balance-transferExecution</artifactId>
+    <artifactId>money-transfer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
